@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pymupdf
+unstructured
+gradio
+langserve
+fastapi
+uvicorn
+sse_starlette
+python-dotenv
